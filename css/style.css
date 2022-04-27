@@ -1,0 +1,10 @@
+.logo {
+  max-height: 100px;
+}
+
+@media all and (max-width: 576px) {
+  .imgSlider {
+    height: 280px;
+    object-fit: cover;
+  }
+}
